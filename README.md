@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=n1ko23&count_private=true&show_icons=true&include_all_commits=true&theme=radical&title_color=ff1486&bg_color=24292e)
+![](https://github-readme-stats.vercel.app/api?username=n1ko23&count_private=true&show_icons=true&include_all_commits=true&theme=radical&title_color=ff1486&bg_color=0d1117)
 
 
 <!--
