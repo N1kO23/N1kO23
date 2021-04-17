@@ -1,5 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=n1ko23&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)
-![](https://static.zerochan.net/Ram.%28Re%3AZero%29.full.2560670.gif)
+![](https://cdn.discordapp.com/attachments/807364142155431977/833108032375881738/ezgif-2-79abd54b5b3b.gif)
 
 
 <!--
