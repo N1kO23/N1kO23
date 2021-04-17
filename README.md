@@ -1,9 +1,9 @@
-![](https://github-readme-stats.vercel.app/api?username=n1ko23&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)
-![](https://cdn.discordapp.com/attachments/807364142155431977/833108032375881738/ezgif-2-79abd54b5b3b.gif)
+![](https://github-readme-stats.vercel.app/api?username=n1ko23&count_private=true&show_icons=true&include_all_commits=true&theme=radical&title_color=ff1486&bg_color=24292e)
 
 
 <!--
 **N1kO23/N1kO23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://cdn.discordapp.com/attachments/807364142155431977/833108032375881738/ezgif-2-79abd54b5b3b.gif)
 
 Here are some ideas to get you started:
 
