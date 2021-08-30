@@ -17,7 +17,7 @@
   </a>
 </p>
 <h2 align="center">Additional info</h2>
-<h5>
+<h4>
 
 ```ts
 class User {
