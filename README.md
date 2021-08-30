@@ -24,24 +24,24 @@ class User {
   public name: string;
   public pronouns: string[];
   public code: string[];
-  public fav_theme: string[];
-  public line_ends: string;
+  public favTheme: string[];
+  public lineEnds: string;
   public codeStyle: string;
   public variables: string;
   public techCommunities: {};
   public education: string;
-  public myeditors: string[];
+  public myEditors: string[];
   
   constructor() {
     this.name =             "N1kO23"
     this.pronouns =         [ "troll", "trolley" ];
-    this.code =             [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue" ];
-    this.fav_theme =        [ "Dark", "SynthWave '84" ];
-    this.line_ends =        "lf";
+    this.code =             [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "Rust", "CSharp" ];
+    this.favTheme =         [ "Dark", "SynthWave '84" ];
+    this.lineEnds =         "lf";
     this.codeStyle =        "prettier";
     this.variables =        "camelCase";
     this.education =        "I am studying at Karelia UAS. Once graduated, I'll be Bachelor of Science in Computer Science";
-    this.myeditors =        [ "IntelliJ", "VS Code", "nano", "micro", "NetBeans" ];
+    this.myEditors =        [ "IntelliJ", "VS Code", "nano", "micro", "NetBeans" ];
     this.techCommunities =  {
       xornet:   "backend developer",
       taku:     "lead developer",
