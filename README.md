@@ -34,7 +34,7 @@ class User {
   
   constructor() {
     this.name =             "N1kO23"
-    this.pronouns =         [ "troll", "trolley" ];
+    this.pronouns =         [ "he", "him", "they" ];
     this.code =             [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "Rust", "CSharp" ];
     this.favTheme =         [ "Dark", "SynthWave '84" ];
     this.lineEnds =         "lf";
