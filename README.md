@@ -9,6 +9,7 @@
   <img alt="Typescript" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   <img alt="CSharp" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
   <img alt="Rust" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+  <img alt="Java" height="32px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
   <img alt="MongoDB" height="32px" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" />
   <img alt="SQL" height="32px" src="https://bobpusateri.blob.core.windows.net/bcn/2020/04/Azure_SQL_DB.png" />
   <img alt="Git" height="32px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
@@ -64,7 +65,7 @@ class User {
   constructor() {
     this.name =             "N1kO23"
     this.pronouns =         [ "he", "him" ];
-    this.code =             [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "Rust", "CSharp" ];
+    this.code =             [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
     this.favTheme =         [ "Dark", "SynthWave '84" ];
     this.lineEnds =         "lf";
     this.codeStyle =        "prettier";
