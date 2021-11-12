@@ -51,33 +51,20 @@
 
 ```ts
 class User {
-  public name: string;
-  public pronouns: string[];
-  public code: string[];
-  public favTheme: string[];
-  public lineEnds: string;
-  public codeStyle: string;
-  public variables: string;
-  public techCommunities: {};
-  public education: string;
-  public myEditors: string[];
-  
-  constructor() {
-    this.name =             "N1kO23"
-    this.pronouns =         [ "he", "him" ];
-    this.code =             [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
-    this.favTheme =         [ "Dark", "SynthWave '84" ];
-    this.lineEnds =         "lf";
-    this.codeStyle =        "prettier";
-    this.variables =        "camelCase";
-    this.education =        "Studying at Karelia UAS. I'll be Bachelor of Science in Computer Science upon graduation.";
-    this.myEditors =        [ "IntelliJ", "VS Code", "nano", "micro", "Neovim", "NetBeans" ];
-    this.techCommunities =  {
-      xornet:   "backend developer",
-      taku:     "lead developer",
-      sakuria:  "developer"
-    };
-  }
+  public name: string =         "N1kO23";
+  public pronouns: string[] =   [ "he", "him" ];
+  public code: string[] =       [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
+  public favTheme: string[] =   [ "Dark", "SynthWave '84" ];
+  public lineEnds: string =     "lf";
+  public codeStyle: string =    "prettier";
+  public variables: string =    "camelCase";
+  public myEditors: string[] =  [ "VS Code", "IntelliJ", "nano", "micro", "Neovim", "NetBeans" ];
+  public education: string =    "Studying at Karelia UAS. I'll be Bachelor of Science in Computer Science upon graduation.";
+  public techCommunities: {
+    xornet:   "backend developer",
+    taku:     "lead developer",
+    sakuria:  "developer"
+  };
 }
 ```
 </h4>
