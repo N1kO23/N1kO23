@@ -51,15 +51,15 @@
 
 ```ts
 class User {
-  public name: string =         "N1kO23";
-  public pronouns: string[] =   [ "he", "him" ];
-  public code: string[] =       [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
-  public favTheme: string[] =   [ "Dark", "SynthWave '84" ];
-  public lineEnds: string =     "lf";
-  public codeStyle: string =    "prettier";
-  public variables: string =    "camelCase";
-  public myEditors: string[] =  [ "VS Code", "IntelliJ", "nano", "micro", "Neovim", "NetBeans" ];
-  public education: string =    "Studying at Karelia UAS. I'll be Bachelor of Science in Computer Science upon graduation.";
+  public name: string =       "N1kO23";
+  public pronouns: string[] = [ "he", "him" ];
+  public code: string[] =     [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
+  public favTheme: string[] = [ "Dark", "SynthWave '84" ];
+  public lineEnds: string =   "lf";
+  public codeStyle: string =  "prettier";
+  public variables: string =  "camelCase";
+  public editors: string[] =  [ "VS Code", "IntelliJ", "nano", "micro", "Neovim", "NetBeans" ];
+  public education: string =  "Studying at Karelia UAS. I'll be Bachelor of Science in Computer Science upon graduation.";
   public techCommunities: {
     xornet:   "backend developer",
     taku:     "lead developer",
