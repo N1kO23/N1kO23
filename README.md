@@ -25,7 +25,7 @@
     Coding since 2014, started off with good ol' C
   </li>
   <li>
-    Currently main focus on web development, API:s are the stronger side
+    Currently main focus on web development and Rust
   </li>
   <li>
     Hates wasting CPU cycles, optimised code is the way to go
