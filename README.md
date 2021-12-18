@@ -31,6 +31,9 @@
     Hates wasting CPU cycles, optimised code is the way to go
   </li>
   <li>
+    Good at cooking pasta 🍝
+  </li>
+  <li>
     Listens to a lot of music and consumes too much coffee
   </li>
   <li>
