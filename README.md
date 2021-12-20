@@ -37,7 +37,7 @@
     Listens to a lot of music and consumes too much coffee
   </li>
   <li>
-    Head developer on <a href="https://taku.moe/">Taku</a> and backend developer on <a href="https://xornet.cloud/">Xornet</a>
+    Head developer on <a href="https://taku.moe/">Taku</a> and <a href="https://xornet.cloud/">Xornet</a>
   </li>
 </ul>
 <h2 align="center">Stats</h2>
@@ -64,7 +64,7 @@ class User {
   public editors: string[] =  [ "VS Code", "IntelliJ", "nano", "micro", "Neovim", "NetBeans" ];
   public education: string =  "Studying at Karelia UAS. I'll be Bachelor of Science in Computer Science upon graduation.";
   public techCommunities: {
-    xornet:   "backend developer",
+    xornet:   "lead developer",
     taku:     "lead developer",
     sakuria:  "developer"
   };
