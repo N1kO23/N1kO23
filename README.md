@@ -37,6 +37,9 @@
     Listens to a lot of music and consumes too much coffee
   </li>
   <li>
+    Has a goal to run everything on linux
+  </li>
+  <li>
     Head developer on <a href="https://taku.moe/">Taku</a> and <a href="https://xornet.cloud/">Xornet</a>
   </li>
 </ul>
