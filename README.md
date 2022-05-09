@@ -29,16 +29,12 @@ class User {
   public name: string =       "N1kO23";
   public pronouns: string[] = [ "he", "him" ];
   public code: string[] =     [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
-  public favTheme: string[] = [ "Dark", "SynthWave '84" ];
-  public lineEnds: string =   "lf";
-  public codeStyle: string =  "prettier";
-  public variables: string =  "camelCase";
+  public fav_theme: string[] = [ "Material Ocean", "SynthWave '84" ];
+  public line_ends: string =   "lf";
+  public code_style: string =  "prettier";
+  public variables: string =  "snake_case";
   public editors: string[] =  [ "VS Code", "nano", "micro", "Neovim" ];
   public education: string =  "Studying at Karelia UAS. I'll be Bachelor of Science in Computer Science upon graduation.";
-  public techCommunities: {
-    xornet:   "lead developer",
-    taku:     "lead developer"
-  };
 }
 ```
 </h4>
