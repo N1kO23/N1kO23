@@ -1,3 +1,9 @@
+<h2 align="center"> Currently busy with life </h2>
+<h3 align="center"> Feel free to contact </h3>
+
+<br/>
+<br/>
+
 <p align="center">
   <img alt="HTML5" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img alt="CSS3" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
