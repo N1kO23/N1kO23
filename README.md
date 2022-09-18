@@ -34,7 +34,6 @@ class User {
   public code_style: string =  "prettier";
   public variables: string =  "snake_case";
   public editors: string[] =  [ "VS Code", "nano", "micro", "Neovim" ];
-  public education: string =  "Studying at Karelia UAS. I'll be Bachelor of Science in Computer Science upon graduation.";
 }
 ```
 </h4>
