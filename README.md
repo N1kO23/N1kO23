@@ -24,7 +24,7 @@
 class User implements IUser {
   name: string = "N1kO23";
   pronouns: string[] = [ "he", "him" ];
-  code: string[] = [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
+  code: string[] = [ "Java", "JS", "TS", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
   fav_theme: string[] = [ "Material Ocean", "SynthWave '84" ];
   line_ends: string = "lf";
   code_style: string = "prettier";
