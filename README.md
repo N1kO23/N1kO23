@@ -16,24 +16,19 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=n1ko23&count_private=true&show_icons=true&include_all_commits=true&theme=radical&title_color=ff1486&bg_color=00000000&hide_border=true&count_private=true&hide_title=true&text_color=0969da">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1kO23&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=00000000&layout=compact&card_width=250&text_color=0969da">
   </a>
 </p>
-<h4>
 
 ```ts
-class User {
-  public name: string =       "N1kO23";
-  public pronouns: string[] = [ "he", "him" ];
-  public code: string[] =     [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
-  public fav_theme: string[] = [ "Material Ocean", "SynthWave '84" ];
-  public line_ends: string =   "lf";
-  public code_style: string =  "prettier";
-  public variables: string =  "snake_case";
-  public editors: string[] =  [ "VS Code", "nano", "micro", "Neovim" ];
+class User implements IUser {
+  name: string = "N1kO23";
+  pronouns: string[] = [ "he", "him" ];
+  code: string[] = [ "Java", "Javascript", "Typescript", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
+  fav_theme: string[] = [ "Material Ocean", "SynthWave '84" ];
+  line_ends: string = "lf";
+  code_style: string = "prettier";
+  variables: string = "snake_case";
+  editors: string[] = [ "VSCode", "nano", "vi" ];
 }
 ```
-</h4>
