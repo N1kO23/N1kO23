@@ -22,13 +22,14 @@
 
 ```ts
 class User implements IUser {
-  name: string = "N1kO23";
+  name: string = "Niko";
+  aliases: string[] = [ "N1kO23", "NullPointr" ]
   pronouns: string[] = [ "he", "him" ];
-  code: string[] = [ "Java", "JS", "TS", "HTML", "CSS", "Vue", "React", "Rust", "CSharp" ];
+  code: string[] = [ "Java", "JS", "TS", "HTML", "CSS", "Vue", "React", "PHP", "Rust", "CSharp" ];
   fav_theme: string[] = [ "Material Ocean", "SynthWave '84" ];
   line_ends: string = "lf";
   code_style: string = "prettier";
   variables: string = "snake_case";
-  editors: string[] = [ "VSCode", "nano", "vi" ];
+  editors: string[] = [ "VSCode", "nano", "vi", "vim" ];
 }
 ```
