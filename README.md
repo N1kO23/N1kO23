@@ -23,7 +23,7 @@
 ```ts
 class User implements IUser {
   name: string = "Niko";
-  aliases: string[] = [ "N1kO23", "NullPointr" ]
+  aliases: string[] = [ "N1kO23", "NullPointr" ];
   pronouns: string[] = [ "he", "him" ];
   code: string[] = [ "Java", "JS", "TS", "HTML", "CSS", "Vue", "React", "PHP", "Rust", "CSharp" ];
   fav_theme: string[] = [ "Material Ocean", "SynthWave '84" ];
