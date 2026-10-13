@@ -1,3 +1,5 @@
+<img src="https://count.getloli.com/@Github-counter?theme=cat-girls-yay&padding=7&offset=4&align=bottom&scale=1&pixelated=1&darkmode=auto" />
+
 ```cpp
 #include <iostream>
 #include <string>
